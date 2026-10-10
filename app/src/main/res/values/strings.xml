@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Composable Layout</string>
+
+    <!-- Header -->
+    <string name="header_title">Teknologi Informasi</string>
+    <string name="header_subtitle">Universitas Muhammadiyah Yogyakarta</string>
+
+    <!-- Footer -->
+    <string name="footer_copyright">Copyright, 2026</string>
+
+    <!-- Content description -->
+    <string name="cd_logo">Logo Universitas Muhammadiyah Yogyakarta</string>
+</resources>
