@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="text_size_title">26sp</dimen>
-    <dimen name="text_size_subtitle">14sp</dimen>
-    <dimen name="text_size_name">20sp</dimen>
-    <dimen name="text_size_name_cursive">22sp</dimen>
-    <dimen name="text_size_detail">14sp</dimen>
-    <dimen name="text_size_footer">12sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_subtitle">13sp</dimen>
+    <dimen name="text_size_name">18sp</dimen>
+    <dimen name="text_size_name_cursive">20sp</dimen>
+    <dimen name="text_size_detail">12sp</dimen>
+    <dimen name="text_size_footer">11sp</dimen>
 </resources>
