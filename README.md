@@ -1,5 +1,1 @@
-# QuestTugasLayout_0024
-
-Jetpack Compose layout: Teknologi Informasi - Universitas Muhammadiyah Yogyakarta.
-
-All colors, strings, dimensions and images live in res/. A single reusable PersonCard composable renders every card.
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3737fbdf-8491-4fb9-80ca-b02f14c6d310" />
