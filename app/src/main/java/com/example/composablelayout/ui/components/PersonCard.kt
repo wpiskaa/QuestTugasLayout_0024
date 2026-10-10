@@ -21,7 +21,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.dimensionResource
-import androidx.compose.ui.res.integerResource
+import androidx.compose.ui.platform.LocalContext
+import androidx.core.content.res.ResourcesCompat
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
@@ -92,7 +93,7 @@ private fun LogoImage() {
             contentDescription = stringResource(R.string.cd_logo),
             modifier = Modifier
                 .fillMaxSize()
-                .scale(integerResource(R.integer.logo_scale_percent) / 100f),
+                .scale(ResourcesCompat.getFloat(LocalContext.current.resources, R.dimen.logo_scale)),
             contentScale = ContentScale.Crop
         )
     }
