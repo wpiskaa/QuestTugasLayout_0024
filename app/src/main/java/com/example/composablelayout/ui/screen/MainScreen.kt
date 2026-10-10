@@ -2,6 +2,9 @@ package com.example.composablelayout.ui.screen
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.ui.Alignment
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -16,9 +19,6 @@ import com.example.composablelayout.ui.components.FooterSection
 import com.example.composablelayout.ui.components.HeaderSection
 import com.example.composablelayout.ui.components.PersonCard
 import com.example.composablelayout.ui.theme.ComposableLayoutTheme
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.ui.Alignment
 
 @Composable
 fun MainScreen(modifier: Modifier = Modifier) {
