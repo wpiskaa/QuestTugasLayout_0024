@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="person1_name">Bambang Sumantri</string>
+    <string name="person1_name">Piska</string>
     <string name="person1_address">Turi, Sleman</string>
 
-    <string name="person2_name">Gibran Fathoni</string>
+    <string name="person2_name">Asep</string>
     <string name="person2_phone">085436874190</string>
     <string name="person2_address">Kasihan, Bantul</string>
 
-    <string name="person3_name">Zhilal Fadhilah</string>
+    <string name="person3_name">Udin</string>
     <string name="person3_phone">085436874190</string>
     <string name="person3_address">Depok, Sleman</string>
 
-    <string name="person4_name">Ahmad Alfian</string>
+    <string name="person4_name">Joko</string>
     <string name="person4_phone">085436874190</string>
     <string name="person4_address">Gamping, Sleman</string>
 </resources>
